@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("M. Daffa Raygama - (1301223295)")
 	fmt.Println("Mochamad Fathurahman Aldesrand - (1301220325)")
 	fmt.Println("Mochamad Fachru Zaini Cahyadi - (6701223093)")
+	fmt.Println("M. Alfath Kaffahmi - (1301223173)")
 }
